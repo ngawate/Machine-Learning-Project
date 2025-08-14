@@ -7,8 +7,6 @@
 
 > "Machine learning is not just a technology—it's a revolution. It empowers computers to learn, adapt, and make decisions, transforming data into insight and possibility."
 
-> "Machine can now understand human languague too"
-
 ---
 
 ## 🌟 Why Machine Learning?
